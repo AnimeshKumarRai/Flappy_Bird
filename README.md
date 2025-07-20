@@ -25,13 +25,6 @@ Playable in the browser with beautiful visuals, smooth controls, and multiple di
 
 ---
 
-## 📷 Screenshot
-
-![Flappy Bird Clone Screenshot](screenshot.png)
-
-> Tip: Add a real screenshot file named `screenshot.png` in your repo for this to show.
-
----
 
 ## ✅ How to Play
 
@@ -40,27 +33,6 @@ Playable in the browser with beautiful visuals, smooth controls, and multiple di
   - Mouse/tap on screen
 - Avoid hitting pipes or the ground
 - Survive as long as possible and beat your high score
-
----
-
-## 🔧 How to Use (GitHub Pages)
-
-1. **Fork or clone** this repository:
-    ```
-    git clone https://github.com/<your-username>/<repository-name>.git
-    ```
-
-2. Replace the `<your-github-username>` and `<repository-name>` in the README link above with your own.
-
-3. Go to your repository's **Settings → Pages → Source**, and choose:
-    ```
-    Source: main branch /root (or /docs)
-    ```
-
-4. Save and your game will be live at:
-    ```
-    https://<your-username>.github.io/<repository-name>/
-    ```
 
 ---
 

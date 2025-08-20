@@ -1,9 +1,9 @@
-# 🐦 Flappy Bird Clone
+# 🐦 Flappy Bird 
 
 A fully-featured, modern **Flappy Bird** built with HTML, CSS (Tailwind), and JavaScript.  
 Playable in the browser with beautiful visuals, smooth controls, and multiple difficulty modes—all without external dependencies!
 
-🎮 [Play Live](https://AnimeshKumarRai.github.io/flappy-bird>/)
+🎮 [Play Live](https://animeshkumarrai.github.io/flappy-bird/)
 
 ---
 
